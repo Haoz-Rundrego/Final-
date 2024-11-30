@@ -1,0 +1,40 @@
+.order {
+    display: none;
+    width: 40%;
+    margin-left: 30%
+}
+
+footer {
+    display: flex;
+}
+
+.list {
+    text-decoration: none;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.GameStore {
+    font-size: 75px;
+    margin-top: 75px;
+    margin-left: 50px;
+    margin-right: 250px;
+
+}
+
+.cart-items-list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 20;
+}
+
+.cart-item {
+    border: 1px solid rgb(83, 83, 83);
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

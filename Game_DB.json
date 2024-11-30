@@ -1,0 +1,268 @@
+[
+  {
+    "img": "IMG/LogoGame/RDR.jpg",
+    "name": "Red Dead Redemption",
+    "FullPrice": 2199,
+    "price": 1500,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/RDR2.jpg",
+    "name": "Red Dead Redemption 2",
+    "FullPrice": 2599,
+    "price": 1700,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/Portal.jpg",
+    "name": "Portal",
+    "FullPrice": 225,
+    "price": 120,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/Portal2.jpg",
+    "name": "Portal 2",
+    "FullPrice": 225,
+    "price": 100,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/HL.png",
+    "name": "Half-Life",
+    "FullPrice": 155,
+    "price": 85,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/HL2.png",
+    "name": "Half-Life 2",
+    "FullPrice": 225,
+    "price": 125,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/HL2EP1.png",
+    "name": "Half-Life 2 EP1",
+    "FullPrice": 180,
+    "price": 120,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/HL2EP2.jpg",
+    "name": "Half-Life 2 EP2",
+    "FullPrice": 240,
+    "price": 130,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/L4D.jpg",
+    "name": "Left 4 Dead",
+    "FullPrice": 225,
+    "price": 150,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/L4D2.jpg",
+    "name": "Left 4 Dead 2",
+    "FullPrice": 225,
+    "price": 140,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SSoC.jpg",
+    "name": "STALKER SofC",
+    "FullPrice": 240,
+    "price": 130,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SCS.jpg",
+    "name": "STALKER CS",
+    "FullPrice": 190,
+    "price": 90,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SCoP.jpg",
+    "name": "STALKER CofP",
+    "FullPrice": 240,
+    "price": 160,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/CW.jpg",
+    "name": "Content Warning",
+    "FullPrice": 190,
+    "price": 80,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SR.jpg",
+    "name": "Slime Rancher",
+    "FullPrice": 400,
+    "price": 200,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SR2.jpg",
+    "name": "Slime Rancher 2",
+    "FullPrice": 550,
+    "price": 450,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/OUT.jpg",
+    "name": "Outlast",
+    "FullPrice": 400,
+    "price": 250,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/OUT2.jpg",
+    "name": "Outlast 2",
+    "FullPrice": 600,
+    "price": 420,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/CyB.png",
+    "name": "Cyberpunk 2077",
+    "FullPrice": 1200,
+    "price": 840,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/TW3.jpg",
+    "name": "The Witcher 3: Wild Hunt",
+    "FullPrice": 800,
+    "price": 600,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/ER.jpg",
+    "name": "Elden Ring",
+    "FullPrice": 1800,
+    "price": 1350,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/ACV.jpg",
+    "name": "Assassin's Creed Valhalla",
+    "FullPrice": 1300,
+    "price": 910,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/FIFA23.png",
+    "name": "FIFA 23",
+    "FullPrice": 1000,
+    "price": 750,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/GTA5.jpg",
+    "name": "Grand Theft Auto V",
+    "FullPrice": 900,
+    "price": 675,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/HoL.jpg",
+    "name": "Hogwarts Legacy",
+    "FullPrice": 1600,
+    "price": 1280,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/REV.jpg",
+    "name": "Resident Evil Village",
+    "FullPrice": 1200,
+    "price": 780,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/FC6.jpg",
+    "name": "Far Cry 6",
+    "FullPrice": 1400,
+    "price": 1050,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/MW2.jpg",
+    "name": "Call of Duty: Modern Warfare II",
+    "FullPrice": 1800,
+    "price": 1440,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/B2042.jpg",
+    "name": "Battlefield 2042",
+    "FullPrice": 1300,
+    "price": 910,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/DE.jpg",
+    "name": "Doom Eternal",
+    "FullPrice": 1000,
+    "price": 750,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/FFXV.jpg",
+    "name": "Final Fantasy XV",
+    "FullPrice": 1100,
+    "price": 825,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/ME.jpg",
+    "name": "Metro Exodus",
+    "FullPrice": 900,
+    "price": 675,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SMMM.png",
+    "name": "Spider-Man: Miles Morales",
+    "FullPrice": 1500,
+    "price": 1200,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/DS.png",
+    "name": "Death Stranding",
+    "FullPrice": 1300,
+    "price": 910,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/HI.png",
+    "name": "Halo Infinite",
+    "FullPrice": 1400,
+    "price": 980,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/SSDT.jpg",
+    "name": "Sekiro: Shadows Die Twice",
+    "FullPrice": 1200,
+    "price": 900,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/MHW.jpg",
+    "name": "Monster Hunter: World",
+    "FullPrice": 800,
+    "price": 600,
+    "currency": "₴"
+  },
+  {
+    "img": "IMG/LogoGame/ConT.png",
+    "name": "Control",
+    "FullPrice": 1000,
+    "price": 700,
+    "currency": "₴"
+  }
+]

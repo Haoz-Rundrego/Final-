@@ -1,0 +1,106 @@
+.cart-btn1 {
+    margin-left: 100px;
+}
+
+.descr {
+    display: flex;
+    padding: 100px 100px 100px 100px;
+    justify-content: space-around;
+}
+
+.descr-text {
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.prod-text {
+    font-size: 45px;
+    text-align: center;
+}
+
+.products-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 15px;
+}
+
+/* карточки */
+
+.cart {
+    background-color: antiquewhite;
+    border-radius: 10px;
+    width: 350px;
+    height: 550px;
+    padding: 10px 10px 10px 10px;
+}
+
+.cart-img {
+    width: 330px;
+    height: 350px;
+    margin-bottom: 0;
+}
+
+.cart-name {
+    margin-top: 4px;
+    font-size: 25px;
+    color: rgb(49, 49, 49);
+    text-align: center;
+}
+
+.cart-def-price {
+    margin-top: 4px;
+    background-color: #707070;
+    font-size: 20px;
+    width: 300px;
+}
+
+.cart-def-price-sum {
+    color: red;
+    text-decoration: line-through;
+}
+
+.cart-price {
+    margin-bottom: 0px;
+    margin-top: 4px;
+    background-color: #707070;
+    font-size: 20px;
+    width: 300px;
+}
+
+.cart-price-sum {
+    color: rgb(0, 252, 0);
+    text-decoration: underline;
+}
+
+.cart-buy {
+    margin-left: 40px;
+    margin-top: 15px;
+    background-color: bisque;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.cart-buy:hover {
+    background-color: blanchedalmond;
+}
+
+/*  */
+footer {
+    display: flex;
+}
+
+.list {
+    text-decoration: none;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.GameStore {
+    font-size: 75px;
+    margin-top: 75px;
+    margin-left: 50px;
+    margin-right: 250px;
+
+}
